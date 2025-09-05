@@ -16,12 +16,12 @@ pip install package_name
 ## Usage
 
 ```python
-from package_name import file1_name
-file1_name.my_function()
+from package_name import Entrada
+Entrada.my_function()
 ```
 
 ## Author
-My_name
+Cocadaloca
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
